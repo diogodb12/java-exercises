@@ -1,8 +1,8 @@
 package diogodb12.com.github.exerciciosjava.javapoo.aula2;
 
-public class Produto {
+public abstract class Produto {
     private String nome;
-    private double preco;
+    protected double preco;
 
     public void setNome(String nome) {
         this.nome = nome;
