@@ -1,6 +1,6 @@
 package diogodb12.com.github.exerciciosjava.javapoo.aula2;
 
-public abstract class Produto {
+public class Produto {
     private String nome;
     protected double preco;
 
